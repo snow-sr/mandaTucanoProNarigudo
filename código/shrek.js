@@ -13,7 +13,7 @@ function enviarScript(scriptText){
     
             const event = new InputEvent('input', { bubbles: true });
     
-            const textbox = document.querySelector('#main div._13NKt');
+            const textbox = document.querySelector('#main div._fd365im1');
     
             textbox.textContent = lines[i];
     
